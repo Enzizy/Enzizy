@@ -62,7 +62,7 @@
 ---
 
 ### 📫 Connect With Me
-- 📧 Email: your-email@example.com
+- 📧 Email: rolexzhy@gmail.com
 - 🌐 Portfolio: (add this soon 👀)
 
 ---
