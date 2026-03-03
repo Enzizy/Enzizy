@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Enzizy</h1>
+<h1 align="center">Hi 👋, I'm Rolex</h1>
 <h3 align="center">Aspiring Mobile App Developer | Flutter & Android</h3>
 
 ---
