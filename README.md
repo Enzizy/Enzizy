@@ -47,10 +47,6 @@
 - Built with TypeScript  
 - Focused on business workflow optimization  
 
-#### 🛠️ CCR System
-> Backend system using PHP  
-- Handles core operations and data management  
-
 ---
 
 ### 📈 GitHub Stats
