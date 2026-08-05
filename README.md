@@ -49,17 +49,9 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Enzizy&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzizy&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ### 📫 Connect With Me
 - 📧 Email: rolexzhy@gmail.com
-- 🌐 Portfolio: (add this soon 👀)
+- 🌐 Portfolio: zhyronne-batican.vercel.app
 
 ---
 
