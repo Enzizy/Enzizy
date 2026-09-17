@@ -169,10 +169,12 @@ const zhyronne = {
 
 <div align="center">
 
-<img src="https://github-readme-stats-enzizy.vercel.app/api?username=Enzizy&show_icons=true&theme=tokyonight&hide_border=true" alt="Zhyronne's GitHub Stats" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Enzizy&theme=tokyonight&hide_border=true" alt="Zhyronne's GitHub Streak" height="165" />
+<img src="https://github-readme-stats-enzizy.vercel.app/api?username=Enzizy&show_icons=true&theme=tokyonight&hide_border=true&card_width=420" alt="Zhyronne's GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Enzizy&theme=tokyonight&hide_border=true&card_width=320" alt="Zhyronne's GitHub Streak" />
 
-<img src="https://github-readme-stats-enzizy.vercel.app/api/top-langs/?username=Enzizy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
+<br>
+
+<img src="https://github-readme-stats-enzizy.vercel.app/api/top-langs/?username=Enzizy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=760" alt="Top Languages" />
 
 </div>
 
