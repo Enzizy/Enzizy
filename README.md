@@ -6,7 +6,7 @@
 
 I build custom web apps, WordPress sites, landing pages, mobile tools, and AI-assisted workflows.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-zhyronne--batican.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://zhyronne-batican.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-zhyronne--batican.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.zhyronnebatican.workers.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhyronne-batican-5458a53aa/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zhyronnebatican@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-Download-2ea44f?style=for-the-badge&logo=readdotcv&logoColor=white)](https://zhyronne-batican.vercel.app/resume.pdf)
